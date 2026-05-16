@@ -44,10 +44,4 @@ CISC5950/
 ├── Lab-02 (Project-01)/     # Advanced MapReduce Analytics Pipeline
 ├── Lab-03/                  # Spark Analytics Pipeline (MapReduce → Spark migration)
 └── Lab-04 (Project-02)/     # Spark ML Classification Suite
-    ├── P1/                  # Toxic Comment Classification
-    ├── P2/                  # Heart Disease Prediction
-    ├── P3/                  # Census Income Classification
-    ├── P4/                  # Random Forest & Decision Tree on Census Data
-    ├── report.pdf
-    └── README.md
 ```
